@@ -1,4 +1,4 @@
-![картинка[(https://github.com/YufusID/CIDR-internet/blob/main/IMG_20260227_224548_665.jpg)
+![картинка](https://github.com/YufusID/CIDR-internet/blob/main/IMG_20260227_224548_665.jpg)
 Проект по Свободе интернета                     
 Этот софт нельзя продавать, воровать, унижать, выдавать за свой и т.д.
 
