@@ -667,11 +667,6 @@ vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@38.107.236.245:443?flow=xtls-rprx-v
 vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@38.107.233.95:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=usa.pink-world.ru&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23339
 vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@5.180.24.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=usa.pink-world.ru&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23340
 vless://637e7fc0-88b0-4347-a9cc-336db845e79e@84.32.70.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=us.capynode.com&pbk=k_V46vu42Af3eSp09EvF6AHzVmk6q_K36M7UUHOHemc&sid=e34c7b69a5f7318e&spx=%2F#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23341
-# profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Полная • Full
-# profile-update-interval: 5
-# Date/Time: 2026-04-19 / 17:03 (Moscow)
-# Количество: 87
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://01bd3a30-ad45-4ec2-b40d-426a6448504c@83.166.255.130:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=o_JFuLv0N6nFWnDWF7yoeJhB5hL95Xu_MyX4Fd6DsBA&sid=12ff38fb#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK
 vless://01bd3a30-ad45-4ec2-b40d-426a6448504c@83.166.255.130:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=o_JFuLv0N6nFWnDWF7yoeJhB5hL95Xu_MyX4Fd6DsBA&sid=8273429fe27fbb01&spx=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK
