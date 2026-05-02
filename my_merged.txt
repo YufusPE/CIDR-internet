@@ -1,0 +1,5 @@
+#profile-title: ❗ Anix VPN - доступа вам нет
+#profile-update-interval: 99999999
+#support-url: https://t.me/anixvpn_robot
+#announce: TG: ❗Ваша подписка была заблокирована. Зайдите в бота @AnixVPN_robot и получите новую.
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
