@@ -1,0 +1,6 @@
+#profile-title: Anix VPN Profile 10 🕊️
+#profile-update-interval: 3
+#support-url: https://t.me/akita_bio
+#announce: TG: @AkitaUS
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
